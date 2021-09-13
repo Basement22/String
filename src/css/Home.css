@@ -1,0 +1,9 @@
+.landing-partners {
+  margin-top: 78vh;
+  height: 10vh;
+  display: flex;
+  color: rgb(196, 196, 196);
+  align-items: center;
+  justify-content: center;
+  background-image: linear-gradient(180deg, white, rgb(212, 16, 16));
+}

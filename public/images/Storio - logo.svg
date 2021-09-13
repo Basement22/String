@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="95.394" height="47.917" viewBox="0 0 95.394 47.917">
+  <g id="Storio_-_logo" data-name="Storio - logo" transform="translate(-42.606 -47.041)">
+    <g id="Storio_-_S" data-name="Storio - S" transform="matrix(0.966, 0.259, -0.259, 0.966, -0.864, -82.075)">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="10.5" cy="10.5" r="10.5" transform="translate(102 109)" fill="#1a828e"/>
+      <circle id="Ellipse_4" data-name="Ellipse 4" cx="10.5" cy="10.5" r="10.5" transform="translate(97 128)" fill="#1a828e"/>
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="13.5" cy="13.5" r="13.5" transform="translate(107 105)" fill="#bae2ee"/>
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="13.5" cy="13.5" r="13.5" transform="translate(86 126)" fill="#bae2ee"/>
+    </g>
+    <text id="torio" transform="translate(80 51)" fill="#043339" font-size="24" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="26">torio</tspan></text>
+  </g>
+</svg>
